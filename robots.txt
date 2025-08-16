@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://app.tiledocs.com/main/RJ6sdoR_0UZJOKGYsWWPn/pages/ArQARyenrB2KTApUDm4XV/sitemap_index.xml
